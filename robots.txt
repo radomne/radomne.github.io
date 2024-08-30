@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://radomne.github.io/sitemap.html.gz
+Sitemap: https://radomne.github.io/app/sitemap.html.gz
+Sitemap: https://radomne.github.io/assets/sitemap.html.gz
+Sitemap: https://radomne.github.io/css/sitemap.html.gz
+Sitemap: https://radomne.github.io/includes/sitemap.html.gz
+Sitemap: https://radomne.github.io/item/sitemap.html.gz
+Sitemap: https://radomne.github.io/src/sitemap.html.gz
